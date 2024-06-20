@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>
-      <iframe src="https://giphy.com/embed/EQaiq0MVPVXKPvFir4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/EQaiq0MVPVXKPvFir4">via GIPHY</a></p>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI2dWEyMXpxOTJ0NGxqMnJ1ZW0wdTJwcGdnYTJmZWJlaHN6dXFhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jS1r7mpV7XVaeGoYlJ/giphy.gif" alt="C++ Cover Letter" />
     </p>
 </div>
 
